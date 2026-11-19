@@ -93,10 +93,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,35 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walk_Test
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 205
-        width: 24
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9aba057e2a6cf1f50800000000000000
-      internalID: 6854415560849009577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: walktest (2)_1
       rect:
         serializedVersion: 2
-        x: 84
-        y: 205
-        width: 24
-        height: 41
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,10 +170,10 @@ TextureImporter:
       name: walktest (2)_2
       rect:
         serializedVersion: 2
-        x: 148
-        y: 205
-        width: 24
-        height: 40
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,10 +192,10 @@ TextureImporter:
       name: walktest (2)_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 205
-        width: 24
-        height: 41
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +214,10 @@ TextureImporter:
       name: walktest (2)_4
       rect:
         serializedVersion: 2
-        x: 21
-        y: 141
-        width: 23
-        height: 40
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,10 +236,10 @@ TextureImporter:
       name: walktest (2)_5
       rect:
         serializedVersion: 2
-        x: 85
-        y: 141
-        width: 23
-        height: 41
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +258,10 @@ TextureImporter:
       name: walktest (2)_6
       rect:
         serializedVersion: 2
-        x: 149
-        y: 141
-        width: 23
-        height: 40
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +280,10 @@ TextureImporter:
       name: walktest (2)_7
       rect:
         serializedVersion: 2
-        x: 213
-        y: 141
-        width: 23
-        height: 41
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,10 +302,10 @@ TextureImporter:
       name: walktest (2)_8
       rect:
         serializedVersion: 2
-        x: 20
-        y: 77
-        width: 24
-        height: 39
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +324,10 @@ TextureImporter:
       name: walktest (2)_9
       rect:
         serializedVersion: 2
-        x: 84
-        y: 77
-        width: 24
-        height: 41
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,10 +346,10 @@ TextureImporter:
       name: walktest (2)_10
       rect:
         serializedVersion: 2
-        x: 148
-        y: 77
-        width: 24
-        height: 40
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +368,10 @@ TextureImporter:
       name: walktest (2)_11
       rect:
         serializedVersion: 2
-        x: 212
-        y: 77
-        width: 24
-        height: 41
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,10 +390,10 @@ TextureImporter:
       name: walktest (2)_12
       rect:
         serializedVersion: 2
-        x: 20
-        y: 13
-        width: 23
-        height: 40
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,10 +412,10 @@ TextureImporter:
       name: walktest (2)_13
       rect:
         serializedVersion: 2
-        x: 84
-        y: 13
-        width: 23
-        height: 41
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -456,10 +434,10 @@ TextureImporter:
       name: walktest (2)_14
       rect:
         serializedVersion: 2
-        x: 148
-        y: 13
-        width: 23
-        height: 40
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +456,10 @@ TextureImporter:
       name: walktest (2)_15
       rect:
         serializedVersion: 2
-        x: 212
-        y: 13
-        width: 23
-        height: 41
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -492,6 +470,28 @@ TextureImporter:
       bones: []
       spriteID: 96b37385e0b6d4890800000000000000
       internalID: -7472198497384055959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walktest (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18204ddbcef39c145a55b7935da79d18
+      internalID: 1779291517
       vertices: []
       indices: 
       edges: []
@@ -512,7 +512,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Walk_Test: 6854415560849009577
+      walktest (2)_0: 1779291517
       walktest (2)_1: -9030090454157414866
       walktest (2)_10: -5505174171881806852
       walktest (2)_11: -2657700515186412806
